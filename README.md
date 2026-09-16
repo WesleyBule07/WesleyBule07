@@ -16,8 +16,6 @@
 
 ###
 
-<br clear="both">
-
 <p data-importer="text" align="center">Languages and Tools</p>
 
 ###
@@ -58,8 +56,6 @@
 
 ###
 
-<br clear="both">
-
 <p data-importer="text" align="center">Frameworks</p>
 
 ###
@@ -77,8 +73,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <p data-importer="text" align="center">Databases</p>
 
@@ -98,8 +92,8 @@
 
 ###
 
-<br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/WesleyBule07/WesleyBule07/snake-output/snake.svg" alt="Snake animation" />
+
+<img data-importer="snake" align="center" src="https://raw.githubusercontent.com/WesleyBule07/WesleyBule07/snake-output/snake.svg" alt="Snake animation" />
 
 ###
