@@ -54,6 +54,8 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
 </div>
 
+___
+
 ###
 
 <p data-importer="text" align="center">Frameworks</p>
@@ -73,7 +75,7 @@
 </div>
 
 ###
-
+___
 <p data-importer="text" align="center">Databases</p>
 
 ###
@@ -91,8 +93,7 @@
 </div>
 
 ###
-
-
+___
 
 <img data-importer="snake" align="center" src="https://raw.githubusercontent.com/WesleyBule07/WesleyBule07/snake-output/snake.svg" alt="Snake animation" />
 
