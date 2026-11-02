@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### Tech Stack & Ecosystem
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 ---
 
-### 📊 GitHub Metrics
+### GitHub Metrics
 
 <div align="center">
 
