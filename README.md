@@ -1,6 +1,9 @@
 <div align="center">
 
 <!-- BANNER HEADER -->
+<p align="center">
+  <img src="banner.svg" alt="Wesley Bule, Full-Stack Developer" width="100%" />
+</p>
 
 <br/><br/>
 
