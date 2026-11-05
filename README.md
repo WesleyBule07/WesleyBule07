@@ -2,7 +2,7 @@
 
 <!-- BANNER HEADER -->
 <p align="center">
-  <img src="banner.svg" alt="Wesley Bule, Full-Stack Developer" width="100%" />
+  <img src="banner.svg" alt="Wesley Bule, Full-Stack Developer" width="70%" />
 </p>
 
 <h2 align="center">
