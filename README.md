@@ -5,8 +5,6 @@
   <img src="banner.svg" alt="Wesley Bule, Full-Stack Developer" width="100%" />
 </p>
 
-<br/><br/>
-
 <h2 align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tnOWpvNzExb3B3djllazJwZXAxbGJpbjE4cWhscWMzYXJrbDgyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KZh5bFSMOqVUlQdbQB/giphy.gif" width="45" height="45" /> 
   FULL-STACK DEVELOPER
