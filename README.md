@@ -5,11 +5,6 @@
   <img src="banner.svg" alt="Wesley Bule, Full-Stack Developer" width="85%" />
 </p>
 
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tnOWpvNzExb3B3djllazJwZXAxbGJpbjE4cWhscWMzYXJrbDgyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KZh5bFSMOqVUlQdbQB/giphy.gif" width="45" height="45" /> 
-  FULL-STACK DEVELOPER
-</h2>
-
 <a href="https://github.com/WesleyBule07">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&height=40&lines=Building+Scalable+Backend+Systems;Spring+Boot+%26+Python+APIs;Crafting+Modern+Digital+Solutions" alt="Typing SVG" />
 </a>
