@@ -62,16 +62,18 @@
 <div align="center">
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=WesleyBule07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&icon_color=00D4FF" alt="Wesley's GitHub Stats" />
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Wesley's GitHub Stats" />
+</p>
+
+<p>
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" />
 </p>
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WesleyBule07&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=C9D1D9" alt="GitHub Streak" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyBule07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" alt="Top Languages" />
-</p>
+
 
 </div>
 
