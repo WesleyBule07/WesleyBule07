@@ -61,13 +61,16 @@
 
 <div align="center">
 
-<p>
-  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Wesley's GitHub Stats" />
-</p>
-
-<p>
-  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Wesley's GitHub Stats" width="100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WesleyBule07&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=C9D1D9" alt="GitHub Streak" />
